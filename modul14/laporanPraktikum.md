@@ -60,7 +60,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal1-14.3 .png)
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal1-14.3%20.png)
 [Program ini membaca jumlah daerah ($n$) dan jumlah rumah ($m$) beserta rangkaian nomor rumah para kerabat di setiap daerah tersebut. Program kemudian mengurutkan nomor-nomor rumah di setiap daerah secara terurut membesar menggunakan algoritma selection sort. Setelah proses pengurutan selesai, program akan langsung menampilkan rangkaian nomor rumah yang sudah rapi tersebut dalam satu baris per daerahnya.]
 
 
@@ -136,7 +136,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal2-14.3 .png)
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal2-14.3%20.png)
 [Program ini membaca data daerah dan nomor rumah kerabat dengan format yang sama seperti program pertama, lalu mengurutkan seluruh data tersebut secara membesar menggunakan algoritma selection sort. Pada saat pencetakan keluaran, program memisahkan data dengan cara menampilkan semua nomor rumah ganjil terlebih dahulu (dari terkecil ke terbesar), kemudian langsung diikuti dengan menampilkan semua nomor rumah genap (dari terbesar ke terkecil) dalam satu baris yang sama.]
 
 
@@ -196,7 +196,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal3-14.3 .png)
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu-Hermawan_109082530038_Modul_Laprak/blob/main/modul14/output/output-soal3-14.3%20.png)
 [Program ini membaca sekumpulan bilangan bulat secara terus-menerus hingga mendeteksi angka penanda negatif (-5313) untuk menghentikan program. Setiap kali program membaca angka 0, data yang telah tersimpan hingga saat itu akan diurutkan menggunakan algoritma insertion sort, lalu program akan mencari dan mencetak nilai mediannya (jika jumlah data ganjil diambil nilai tengahnya, jika genap diambil rata-rata dua nilai tengahnya yang dibulatkan ke bawah). Bilangan selain 0 dan angka penanda akan terus disimpan ke dalam array untuk perhitungan selanjutnya.]
 
 ### 1. [Soal 1 14.6]
